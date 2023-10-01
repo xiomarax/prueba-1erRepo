@@ -2,9 +2,9 @@ function Hola(camada) {
     console.log("Hola"+ camada)
 }
 
-function Chao(camda) {
+function ChaoChao(camda) {
     console.log("Chao" +camada)
 }
 
 Hola("Camada1")
-Chao("Camada1")
+ChaoChao("Camada1")
