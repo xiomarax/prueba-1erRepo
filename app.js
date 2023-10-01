@@ -2,9 +2,9 @@ function Hola(camada) {
     console.log("Hola"+ camada)
 }
 
-function Chao(camda) {
+function ChaoNosVemosClaseViene(camda) {
     console.log("Chao" +camada)
 }
 
 Hola("Camada1")
-Chao("Camada1")
+ChaoNosVemosClaseViene("Camada1")
